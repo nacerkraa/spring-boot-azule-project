@@ -1,2 +1,5 @@
 # spring-boot-azule-project
-Spring boot microservices project using eureka server and azule service.
+### Java 8
+### Spring Boot 2.7.7
+### IDE Intelig Idea
+### Maven
